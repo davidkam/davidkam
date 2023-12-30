@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![under construction](http://www.davekam.com/images/uc.gif)
 <!--
 **davidkam/davidkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
